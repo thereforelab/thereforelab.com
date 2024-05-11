@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Facategories on PaperMod RTL</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/fa/facategories/</link>
+    <link>https://thereforelab.com/fa/facategories/</link>
     <description>Recent content in Facategories on PaperMod RTL</description>
     <image>
       <title>PaperMod RTL</title>
-      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>https://thereforelab.com/images/papermod-cover.png</url>
+      <link>https://thereforelab.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     <copyright>© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://adityatelange.github.io/hugo-PaperMod/fa/facategories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://thereforelab.com/fa/facategories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syntax</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/fa/facategories/syntax/</link>
+      <link>https://thereforelab.com/fa/facategories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/fa/facategories/syntax/</guid>
+      <guid>https://thereforelab.com/fa/facategories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/fa/facategories/themes/</link>
+      <link>https://thereforelab.com/fa/facategories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://adityatelange.github.io/hugo-PaperMod/fa/facategories/themes/</guid>
+      <guid>https://thereforelab.com/fa/facategories/themes/</guid>
       <description></description>
     </item>
     

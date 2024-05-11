@@ -2,112 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fr/posts/markdown-syntax/</loc>
+    <loc>https://thereforelab.com/fr/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/posts/markdown-syntax/"
+                href="https://thereforelab.com/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://adityatelange.github.io/hugo-PaperMod/fa/posts/markdown-syntax/"
+                href="https://thereforelab.com/fa/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://adityatelange.github.io/hugo-PaperMod/fr/posts/markdown-syntax/"
+                href="https://thereforelab.com/fr/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fr/frtags/css/</loc>
+    <loc>https://thereforelab.com/fr/frtags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fr/frcategories/</loc>
+    <loc>https://thereforelab.com/fr/frcategories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fr/frseries/</loc>
+    <loc>https://thereforelab.com/fr/frseries/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fr/frtags/</loc>
+    <loc>https://thereforelab.com/fr/frtags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fr/frtags/html/</loc>
+    <loc>https://thereforelab.com/fr/frtags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fr/frtags/markdown/</loc>
+    <loc>https://thereforelab.com/fr/frtags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fr/</loc>
+    <loc>https://thereforelab.com/fr/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/"
+                href="https://thereforelab.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://adityatelange.github.io/hugo-PaperMod/fa/"
+                href="https://thereforelab.com/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://adityatelange.github.io/hugo-PaperMod/fr/"
+                href="https://thereforelab.com/fr/"
                 />
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fr/posts/</loc>
+    <loc>https://thereforelab.com/fr/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/posts/"
+                href="https://thereforelab.com/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://adityatelange.github.io/hugo-PaperMod/fa/posts/"
+                href="https://thereforelab.com/fa/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://adityatelange.github.io/hugo-PaperMod/fr/posts/"
+                href="https://thereforelab.com/fr/posts/"
                 />
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fr/frcategories/syntax/</loc>
+    <loc>https://thereforelab.com/fr/frcategories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fr/frtags/themes/</loc>
+    <loc>https://thereforelab.com/fr/frtags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fr/frcategories/themes/</loc>
+    <loc>https://thereforelab.com/fr/frcategories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fr/frseries/themes-guide/</loc>
+    <loc>https://thereforelab.com/fr/frseries/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fr/archives/</loc>
+    <loc>https://thereforelab.com/fr/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/archives/"
+                href="https://thereforelab.com/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://adityatelange.github.io/hugo-PaperMod/fr/archives/"
+                href="https://thereforelab.com/fr/archives/"
                 />
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/fr/search/</loc>
+    <loc>https://thereforelab.com/fr/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/search/"
+                href="https://thereforelab.com/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://adityatelange.github.io/hugo-PaperMod/fr/search/"
+                href="https://thereforelab.com/fr/search/"
                 />
   </url>
 </urlset>
