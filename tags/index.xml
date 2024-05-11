@@ -10,6 +10,7 @@
       <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <copyright>© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)</copyright>
     <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://adityatelange.github.io/hugo-PaperMod/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -31,7 +32,7 @@
     </item>
     
     <item>
-      <title>css</title>
+      <title>Css</title>
       <link>https://adityatelange.github.io/hugo-PaperMod/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -40,7 +41,7 @@
     </item>
     
     <item>
-      <title>html</title>
+      <title>Html</title>
       <link>https://adityatelange.github.io/hugo-PaperMod/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -49,7 +50,7 @@
     </item>
     
     <item>
-      <title>markdown</title>
+      <title>Markdown</title>
       <link>https://adityatelange.github.io/hugo-PaperMod/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -58,7 +59,7 @@
     </item>
     
     <item>
-      <title>themes</title>
+      <title>Themes</title>
       <link>https://adityatelange.github.io/hugo-PaperMod/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -67,7 +68,7 @@
     </item>
     
     <item>
-      <title>code</title>
+      <title>Code</title>
       <link>https://adityatelange.github.io/hugo-PaperMod/tags/code/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -76,7 +77,7 @@
     </item>
     
     <item>
-      <title>gist</title>
+      <title>Gist</title>
       <link>https://adityatelange.github.io/hugo-PaperMod/tags/gist/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -85,7 +86,7 @@
     </item>
     
     <item>
-      <title>privacy</title>
+      <title>Privacy</title>
       <link>https://adityatelange.github.io/hugo-PaperMod/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -94,7 +95,7 @@
     </item>
     
     <item>
-      <title>shortcodes</title>
+      <title>Shortcodes</title>
       <link>https://adityatelange.github.io/hugo-PaperMod/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -103,7 +104,7 @@
     </item>
     
     <item>
-      <title>syntax</title>
+      <title>Syntax</title>
       <link>https://adityatelange.github.io/hugo-PaperMod/tags/syntax/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -112,7 +113,7 @@
     </item>
     
     <item>
-      <title>emoji</title>
+      <title>Emoji</title>
       <link>https://adityatelange.github.io/hugo-PaperMod/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
